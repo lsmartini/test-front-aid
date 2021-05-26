@@ -1,1 +1,12 @@
-{}
+{
+  "custom-field": "no se que es esto",
+  "custom-object": {
+    "custom-line": "roewijrowejr",
+    "custom-text": "kjsadkasjhdkjahskd"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "item nuevo"
+    }
+  ]
+}
